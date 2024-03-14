@@ -1,0 +1,24 @@
+.present{
+    background-color: green;
+    border-radius: 50%;
+    color: white;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.leave{
+    background-color: maroon;
+    border-radius: 50%;
+    color: white;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.monthlyTable h1{
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.data-tr{
+    padding-block: 2vh;
+}
